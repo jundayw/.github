@@ -10,9 +10,5 @@
 
 #### 📊 GitHub Stats
 
-<div align="left">
-    <a href="https://github.com/jundayw">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jundayw&show_icons=true&rank_icon=github&theme=default" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundayw&layout=compact&langs_count=8&theme=default" />
-    </a>
-</div>
+| <a href="https://github.com/jundayw"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jundayw&show_icons=true&rank_icon=github&hide_border=true&theme=default" /></a> | <a href="https://github.com/jundayw"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundayw&layout=compact&langs_count=8&hide_border=true&theme=default" /></a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
