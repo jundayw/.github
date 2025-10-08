@@ -32,8 +32,8 @@
 
 <details open>
     <summary>Authentication</summary>
-    <a href="https://github.com/jundayw/laravel-tokenizer">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=jundayw&repo=laravel-tokenizer&theme=prussian&hide_border=true">
+    <a href="https://github.com/jundayw/laravel-tokenable">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=jundayw&repo=laravel-tokenable&theme=prussian&hide_border=true">
     </a>
     <a href="https://github.com/jundayw/laravel-oauth">
         <img src="https://github-readme-stats.zohan.tech/api/pin/?username=jundayw&repo=laravel-oauth&theme=prussian&hide_border=true">
